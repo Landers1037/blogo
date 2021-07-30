@@ -106,7 +106,9 @@ dist
 app
 blog
 app_blog
+blogo
 *.db
 .idea
 package-lock.json
 go.sum
+data
