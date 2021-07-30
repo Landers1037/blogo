@@ -1,6 +1,6 @@
 # Blogo
 
-![](https://img.shields.io/badge/build-pass-blue) ![ci](https://img.shields.io/badge/CI-jjtool-green) ![](https://img.shields.io/badge/runtest-pass-brightgreen) ![](https://img.shields.io/badge/benchmark-11.4k/s-brightgreen)
+![](https://img.shields.io/badge/build-pass-blue) ![mod](https://img.shields.io/badge/module-landers1037/blogo-green) ![](https://img.shields.io/badge/runtest-pass-brightgreen) ![](https://img.shields.io/badge/benchmark-11.4k/s-brightgreen)
 
 `blog` is a go&amp;vue blog using markdown
 
@@ -983,6 +983,12 @@ CGO_ENABLED: 1
 GO111MODULE: on
 start to build app
 done
+```
+
+### 通过make编译
+
+```bash
+make build
 ```
 
 
