@@ -7,8 +7,8 @@ Author: Landers
 package article
 
 import (
-	"blog/models/dao/statistics_dao"
 	"github.com/gin-gonic/gin"
+	"github.com/landers1037/blogo/models/dao/statistics_dao"
 	"net/http"
 )
 
